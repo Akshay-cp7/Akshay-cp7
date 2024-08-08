@@ -1,5 +1,5 @@
 - Hi, I’m Akshay C P
-- Learning Rust language
-- Intereated in Flutter & Rest API
+- Intereated in Flutter & Springboot
+- Published apps on google play
 - I made projects with robotics and home automation using c++ and python
 
