@@ -11,11 +11,12 @@
 - 📫 How to reach me **com.akshaycp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/akshay-cp7" target="_blank">
-    <img src="https://cdn.uconnectlabs.com/wp-content/uploads/sites/46/2022/08/Linkedin-Logo-e1660320077673.png" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://cdn.uconnectlabs.com/wp-content/uploads/sites/46/2022/08/Linkedin-Logo-e1660320077673.png" alt="LinkedIn" height="40" style="width: auto;"/>
   </a>
 </p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="center" class="icons-container"> 
   <a> 
