@@ -2,7 +2,7 @@
 <div align="center">
     <img src="https://media.tenor.com/TCRFRR67pVkAAAAi/rebrnd-coding.gif" alt="flutter" width="100" height="100"/> 
 </div>
-<h3 align="center">Flutter developer working at Farook College</h3>
+<h3 align="center">Flutter developer working @ Farook College</h3>
 
 
 - 🔭 I’m currently working on **Attendance management app**
@@ -51,6 +51,4 @@
   </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshay-cp7&show_icons=true&locale=en" alt="akshay-cp7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-cp7&" alt="akshay-cp7" /></p>
