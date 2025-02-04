@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akshay C P</h1>
-<h3 align="center">Flutter developer working at Farook College</h3>
-<a> 
+<div align="center">
     <img src="https://media.tenor.com/TCRFRR67pVkAAAAi/rebrnd-coding.gif" alt="flutter" width="40" height="40"/> 
-</a> 
+</div>
+<h3 align="center">Flutter developer working at Farook College</h3>
+
 
 - 🔭 I’m currently working on **Attendance management app**
 - 👨‍💻 All of my projects are available at [https://github.com/Akshay-cp7](https://github.com/Akshay-cp7)
