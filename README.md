@@ -33,7 +33,7 @@
   </a> 
 </p>
 
-<p align="left" class="icons-container"> 
+<p align="center" class="icons-container"> 
   <a> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a> 
