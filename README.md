@@ -48,13 +48,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-cp7&" alt="akshay-cp7" /></p>
 
-<style>
-  .icons-container a {
-    text-decoration: none !important;
-    border-bottom: none !important;
-  }
-  .icons-container img {
-    border: 0 !important;
-    outline: none !important;
-  }
-</style>
+
