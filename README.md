@@ -4,13 +4,11 @@
 </div>
 <h3 align="center">Flutter developer working @ Farook College</h3>
 
-
-
 <div align="center">
-    - 🔭 I’m currently working on **Attendance management app**
-    - 👨‍💻 All of my projects are available at [https://github.com/Akshay-cp7](https://github.com/Akshay-cp7)  
-    - 💬 Ask me about **Flutter, REST API**  
-    - 📫 How to reach me **com.akshaycp@gmail.com**  
+    <p>🔭 I’m currently working on <strong>Attendance management app</strong>.  
+    👨‍💻 All of my projects are available at <a href="https://github.com/Akshay-cp7">GitHub</a>.  
+    💬 Ask me about <strong>Flutter, REST API</strong>.  
+    📫 Reach me at <strong>com.akshaycp@gmail.com</strong>.</p>
 </div>
 
 
