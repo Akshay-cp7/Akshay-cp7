@@ -4,12 +4,7 @@
 </div>
 <h3 align="center">Flutter Developer @ Farook College</h3>
 
-<div align="center">
-    <p>🔭 Currently working on an <strong>Attendance Management App</strong>.<br>
-    👨‍💻 Explore my projects on <a href="https://github.com/Akshay-cp7" target="_blank">GitHub</a>.<br>
-    💬 Ask me about <strong>Flutter</strong>, <strong>REST API</strong>, and more.<br>
-    📫 Reach me at <strong><a href="mailto:com.akshaycp@gmail.com">com.akshaycp@gmail.com</a></strong>.</p>
-</div>
+
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
