@@ -5,10 +5,14 @@
 <h3 align="center">Flutter developer working @ Farook College</h3>
 
 
-- 🔭 I’m currently working on **Attendance management app**
-- 👨‍💻 All of my projects are available at [https://github.com/Akshay-cp7](https://github.com/Akshay-cp7)
-- 💬 Ask me about **Flutter, REST API**
-- 📫 How to reach me **com.akshaycp@gmail.com**
+
+<div align="center">
+    - 🔭 I’m currently working on **Attendance management app**
+    - 👨‍💻 All of my projects are available at [https://github.com/Akshay-cp7](https://github.com/Akshay-cp7)  
+    - 💬 Ask me about **Flutter, REST API**  
+    - 📫 How to reach me **com.akshaycp@gmail.com**  
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
