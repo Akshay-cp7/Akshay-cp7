@@ -3,7 +3,7 @@
     <img src="https://media.tenor.com/TCRFRR67pVkAAAAi/rebrnd-coding.gif" alt="flutter" width="100" height="100"/>
 </div>
 <h3 align="center">Flutter Developer @ Farook College</h3>
-
+"Developing a cross-platform mobile application for Android and iOS for Farook College's ERP system. The app integrates with REST APIs to enable faculty members to efficiently mark attendance and perform various administrative functions.
 
 
 <h3 align="left">Connect with Me:</h3>
