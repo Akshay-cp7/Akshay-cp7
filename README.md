@@ -12,10 +12,7 @@ Developing a cross-platform mobile application for Android and iOS for Farook Co
 
 <h3 align="left">Socials:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/akshay-cp7" target="_blank">
-    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP93kcigD44SybE4leObgPB36SKblvfcTGeZlT2fYhWMRxx2oHA4UZMU36YRk_Nxs0812DvUxN4xw1zT_6zCY3uFtcxlVxS4leqhyphenhyphenzR9_5oUd5-XD174-YZXCqWMy8e47ZJvsIRUqAJHCRkVtfk9qgAKc-GXLHvePDQdTLSYUSIDXQuKC-t9PDEHeOML6u/s320/Linked_In-removebg-preview.png" alt="LinkedIn" height="50" style="width: auto;"/>
-  </a>
-      <a href="https://www.linkedin.com/in/akshay-cp7" target="_blank"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisNwpVyWWztiE2p1ginZnYRSGCrEg2sOmXhuoLYKgenNj_LTpF8NEIhc9oxtURm4p0u4n1t-R4oQ09vEcKc7gODyNKeQC_l40eheAbyL7Fg97Rzp3hz7QL2Y3N2ajsZJVGibWdhEkahcyCdvfI4ujifXErFfIjFa3xBZAugU4hsZS11WOML4H6GCNu2aeq/s320/Linked_In__1_-removebg-preview.png" alt="Gplay" height="50" style="width: auto;"/></a>
+  <a href="https://www.linkedin.com/in/akshay-cp7"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP93kcigD44SybE4leObgPB36SKblvfcTGeZlT2fYhWMRxx2oHA4UZMU36YRk_Nxs0812DvUxN4xw1zT_6zCY3uFtcxlVxS4leqhyphenhyphenzR9_5oUd5-XD174-YZXCqWMy8e47ZJvsIRUqAJHCRkVtfk9qgAKc-GXLHvePDQdTLSYUSIDXQuKC-t9PDEHeOML6u/s320/Linked_In-removebg-preview.png" alt="LinkedIn" height="50" style="width: auto;"/></a><a href="https://www.linkedin.com/in/akshay-cp7" ><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisNwpVyWWztiE2p1ginZnYRSGCrEg2sOmXhuoLYKgenNj_LTpF8NEIhc9oxtURm4p0u4n1t-R4oQ09vEcKc7gODyNKeQC_l40eheAbyL7Fg97Rzp3hz7QL2Y3N2ajsZJVGibWdhEkahcyCdvfI4ujifXErFfIjFa3xBZAugU4hsZS11WOML4H6GCNu2aeq/s320/Linked_In__1_-removebg-preview.png" alt="Gplay" height="50" style="width: auto;"/></a>
 </p>
 
 
