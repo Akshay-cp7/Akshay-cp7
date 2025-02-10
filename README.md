@@ -13,7 +13,7 @@ Developing a cross-platform mobile application for Android and iOS for Farook Co
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/akshay-cp7" target="_blank">
-    <img src="https://cdn.uconnectlabs.com/wp-content/uploads/sites/46/2022/08/Linkedin-Logo-e1660320077673.png" alt="LinkedIn" height="20" style="width: auto;"/>
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP93kcigD44SybE4leObgPB36SKblvfcTGeZlT2fYhWMRxx2oHA4UZMU36YRk_Nxs0812DvUxN4xw1zT_6zCY3uFtcxlVxS4leqhyphenhyphenzR9_5oUd5-XD174-YZXCqWMy8e47ZJvsIRUqAJHCRkVtfk9qgAKc-GXLHvePDQdTLSYUSIDXQuKC-t9PDEHeOML6u/s320/Linked_In-removebg-preview.png" alt="LinkedIn" height="20" style="width: auto;"/>
   </a>
 </p>
 
