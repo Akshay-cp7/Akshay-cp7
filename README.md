@@ -13,8 +13,8 @@ Developing a cross-platform mobile application for Android and iOS, currently wo
 </p>
 
 <h3 align="left">Languages & Tools:</h3>
-<p align="left" class="icons-container">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpr5Z_9YX6KU36u_wzE73gAOk2VZUZ0FzpLHkV0Hsw88faU-ZFZAIwpi5Q3e1a-Ieq2qfTJFUchV47teUb8ihkLeg2lTd4sEAlP0MtYPOiUOLytsUpLrQ6YvAfiT_RFJpd_T8vSL_XRPuo1BKwT2wHlrQf7LthqoAlM6W2-AXJ3cr5jX5v00ZmfdINu94b/s320/1000143056.gif" alt="gif" width="40" height="40"/>
+<p align="center" class="icons-container">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpr5Z_9YX6KU36u_wzE73gAOk2VZUZ0FzpLHkV0Hsw88faU-ZFZAIwpi5Q3e1a-Ieq2qfTJFUchV47teUb8ihkLeg2lTd4sEAlP0MtYPOiUOLytsUpLrQ6YvAfiT_RFJpd_T8vSL_XRPuo1BKwT2wHlrQf7LthqoAlM6W2-AXJ3cr5jX5v00ZmfdINu94b/s320/1000143056.gif" alt="gif" width="50" height="50"/>
 
   <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
   <a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
@@ -27,5 +27,5 @@ Developing a cross-platform mobile application for Android and iOS, currently wo
   <a href="https://www.postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpr5Z_9YX6KU36u_wzE73gAOk2VZUZ0FzpLHkV0Hsw88faU-ZFZAIwpi5Q3e1a-Ieq2qfTJFUchV47teUb8ihkLeg2lTd4sEAlP0MtYPOiUOLytsUpLrQ6YvAfiT_RFJpd_T8vSL_XRPuo1BKwT2wHlrQf7LthqoAlM6W2-AXJ3cr5jX5v00ZmfdINu94b/s320/1000143056.gif" alt="gif" width="40" height="40"/>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpr5Z_9YX6KU36u_wzE73gAOk2VZUZ0FzpLHkV0Hsw88faU-ZFZAIwpi5Q3e1a-Ieq2qfTJFUchV47teUb8ihkLeg2lTd4sEAlP0MtYPOiUOLytsUpLrQ6YvAfiT_RFJpd_T8vSL_XRPuo1BKwT2wHlrQf7LthqoAlM6W2-AXJ3cr5jX5v00ZmfdINu94b/s320/1000143056.gif" alt="gif" width="50" height="50"/>
 </p>
