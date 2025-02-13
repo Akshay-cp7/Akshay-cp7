@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Akshay C P</title>
 </head>
 <body style="font-family: Arial, sans-serif; background-color: #f4f4f4; padding: 20px;">
   <!-- Main Flex Container -->
@@ -12,11 +11,7 @@
     <div style="width: 60%;">
       <h1 style="margin: 0;">Hi 👋, I'm Akshay C P</h1>
       <h3 style="margin: 0;">Flutter Developer @ Farook College</h3>
-      <p style="margin-top: 10px;">
-        Developing a cross-platform mobile application for Android and iOS, currently working for Farook College. The app integrates with REST APIs to enable faculty members to efficiently mark attendance and perform various administrative functions.
-      </p>
-    </div>
-    <!-- Right Section: Profile Image -->
+          <!-- Right Section: Profile Image -->
     <div style="width: 35%; text-align: center;">
       <img 
         src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvS6SMc1pjghoEsmI4oCnNoM-vC67lTw2AAOsAUVreO6X_DPI3ZIVEeXuTdCS2V6Ocbdn4RObV6u_OUWB1hsqByt0u6qpSz6XD0ZC8HCqwLGEbWl2dsgfRPtNllLEIJiwGx8J-0rmobQPtheHRqSRYlaVstWCWYHqiz58-k_Jeq3ywLZU3JwCHsyP8_ExH/s320/employee.png" 
@@ -24,6 +19,11 @@
         style="height: 150px; width: auto; border-radius: 50%;" 
       />
     </div>
+      <p style="margin-top: 10px;">
+        Developing a cross-platform mobile application for Android and iOS, currently working for Farook College. The app integrates with REST APIs to enable faculty members to efficiently mark attendance and perform various administrative functions.
+      </p>
+    </div>
+
   </div>
   <!-- Additional Sections -->
   <div style="margin-top: 30px;">
