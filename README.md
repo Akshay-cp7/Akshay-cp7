@@ -5,7 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Akshay C P</title>
 </head>
-<body style="font-family: Arial, sans-serif; display: flex; justify-content: space-between; align-items: flex-start; padding: 20px; background-color: #f4f4f4;">
+<body style="font-family: Arial, sans-serif; display: flex; justify-content: space-between; align-items: center; padding: 20px; background-color: #f4f4f4;">
+    <!-- Left Content Section -->
     <div style="width: 60%;">
         <h1 align="center">Hi 👋, I'm Akshay C P</h1>
         <h3 align="center">Flutter Developer @ Farook College</h3>
@@ -19,7 +20,7 @@
             <a href="https://www.instagram.com/archmeideas/"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdf4nX_3fnUo8XTV0pg3c_-d32yg9mHTE_9yY5pb0IbBwN2vxcT95nuWHoyvH1rZFJ40YgKs6IJPqJ92HKSXZbpeKQxwV2LQvppO3z5Z3hHwfKjLQ250lSr4QQUj84Eq8C6eZDURYuqhWR2A7p5da5VEPBRA-vnEog34NVtx7WT2KOfH4XnbdhCNQLF2QR/s320/Linked_In__2_-removebg-preview.png" alt="Insta" height="50" style="width: auto;"/></a>
         </p>
         <h3 align="left">Languages & Tools:</h3>
-        <p align="left" style="display: flex; flex-wrap: wrap;">
+        <p align="left" class="icons-container" style="display: flex; flex-wrap: wrap;">
             <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" style="margin: 5px;"/></a>
             <a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" style="margin: 5px;"/></a>
             <a href="https://www.arduino.cc"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" style="margin: 5px;"/></a>
@@ -32,8 +33,9 @@
             <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin: 5px;"/></a>
         </p>
     </div>
+    <!-- Right Image Section -->
     <div style="width: 35%; text-align: center;">
-        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvS6SMc1pjghoEsmI4oCnNoM-vC67lTw2AAOsAUVreO6X_DPI3ZIVEeXuTdCS2V6Ocbdn4RObV6u_OUWB1hsqByt0u6qpSz6XD0ZC8HCqwLGEbWl2dsgfRPtNllLEIJiwGx8J-0rmobQPtheHRqSRYlaVstWCWYHqiz58-k_Jeq3ywLZU3JwCHsyP8_ExH/s320/employee.png" alt="Akshay C P" style="width: 100%; max-width: 320px; border-radius: 50%;"/>
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvS6SMc1pjghoEsmI4oCnNoM-vC67lTw2AAOsAUVreO6X_DPI3ZIVEeXuTdCS2V6Ocbdn4RObV6u_OUWB1hsqByt0u6qpSz6XD0ZC8HCqwLGEbWl2dsgfRPtNllLEIJiwGx8J-0rmobQPtheHRqSRYlaVstWCWYHqiz58-k_Jeq3ywLZU3JwCHsyP8_ExH/s320/employee.png" alt="Akshay C P" style="height: 100px; width: auto; border-radius: 50%;"/>
     </div>
 </body>
 </html>
