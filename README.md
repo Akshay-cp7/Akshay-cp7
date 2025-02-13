@@ -4,7 +4,6 @@
 </div>
 <h3 align="center">Flutter Developer @ Farook College</h3>
 Developing a cross-platform mobile application for Android and iOS, currently working for Farook College. The app integrates with REST APIs to enable faculty members to efficiently mark attendance and perform various administrative functions.
-
 <h3 align="left">Socials:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/akshay-cp7"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP93kcigD44SybE4leObgPB36SKblvfcTGeZlT2fYhWMRxx2oHA4UZMU36YRk_Nxs0812DvUxN4xw1zT_6zCY3uFtcxlVxS4leqhyphenhyphenzR9_5oUd5-XD174-YZXCqWMy8e47ZJvsIRUqAJHCRkVtfk9qgAKc-GXLHvePDQdTLSYUSIDXQuKC-t9PDEHeOML6u/s320/Linked_In-removebg-preview.png" alt="LinkedIn" height="50" style="width: auto;"/></a>
@@ -13,9 +12,7 @@ Developing a cross-platform mobile application for Android and iOS, currently wo
 </p>
 
 <h3 align="left">Languages & Tools:</h3>
-<p align="center" class="icons-container">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpr5Z_9YX6KU36u_wzE73gAOk2VZUZ0FzpLHkV0Hsw88faU-ZFZAIwpi5Q3e1a-Ieq2qfTJFUchV47teUb8ihkLeg2lTd4sEAlP0MtYPOiUOLytsUpLrQ6YvAfiT_RFJpd_T8vSL_XRPuo1BKwT2wHlrQf7LthqoAlM6W2-AXJ3cr5jX5v00ZmfdINu94b/s320/1000143056.gif" alt="gif" width="50" height="50"/>
-
+<p align="left" class="icons-container">
   <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
   <a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
   <a href="https://www.arduino.cc"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
@@ -26,6 +23,4 @@ Developing a cross-platform mobile application for Android and iOS, currently wo
   <a href="https://www.adobe.com/products/illustrator.html"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
   <a href="https://www.postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpr5Z_9YX6KU36u_wzE73gAOk2VZUZ0FzpLHkV0Hsw88faU-ZFZAIwpi5Q3e1a-Ieq2qfTJFUchV47teUb8ihkLeg2lTd4sEAlP0MtYPOiUOLytsUpLrQ6YvAfiT_RFJpd_T8vSL_XRPuo1BKwT2wHlrQf7LthqoAlM6W2-AXJ3cr5jX5v00ZmfdINu94b/s320/1000143056.gif" alt="gif" width="50" height="50"/>
 </p>
