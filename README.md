@@ -2,6 +2,7 @@
 <div align="center">
      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpr5Z_9YX6KU36u_wzE73gAOk2VZUZ0FzpLHkV0Hsw88faU-ZFZAIwpi5Q3e1a-Ieq2qfTJFUchV47teUb8ihkLeg2lTd4sEAlP0MtYPOiUOLytsUpLrQ6YvAfiT_RFJpd_T8vSL_XRPuo1BKwT2wHlrQf7LthqoAlM6W2-AXJ3cr5jX5v00ZmfdINu94b/s320/1000143056.gif" alt="gif" width="40" height="40"/>
     <img src="https://media.tenor.com/TCRFRR67pVkAAAAi/rebrnd-coding.gif" alt="flutter" width="100" height="100"/>
+     <img src="https://media.tenor.com/FcONwIFlbc0AAAAi/piffle-cat.gif" alt="gif" width="40" height="40"/>
 </div>
 <h3 align="center">Flutter Developer @ Farook College</h3>
 Developing a cross-platform mobile application for Android and iOS, currently working for Farook College. The app integrates with REST APIs to enable faculty members to efficiently mark attendance and perform various administrative functions.
