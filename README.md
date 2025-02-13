@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshay C P</h1>
 <div align="center">
     <img src="https://media.tenor.com/he8-c_9z7c4AAAAi/optiplex-computer-shake.gif" alt="cpu"  height="60"/>
-    <img src="https://media.tenor.com/TCRFRR67pVkAAAAi/rebrnd-coding.gif" alt="flutter" width="100" height="100"/>
+    <img src="https://media1.tenor.com/m/XPRG-4ujVMIAAAAd/cat-work-in-progress.gif" alt="flutter" width="100" height="100"/>
 </div>
 <h3 align="center">Flutter Developer @ Farook College</h3>
 <info>
