@@ -3,7 +3,9 @@
     <img src="https://media.tenor.com/TCRFRR67pVkAAAAi/rebrnd-coding.gif" alt="flutter" width="100" height="100"/>
 </div>
 <h3 align="center">Flutter Developer @ Farook College</h3>
+{
 Developing a cross-platform mobile application for Android and iOS, currently working for Farook College. The app integrates with REST APIs to enable faculty members to efficiently mark attendance and perform various administrative functions.
+}
 <h3 align="left">Socials:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/akshay-cp7"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP93kcigD44SybE4leObgPB36SKblvfcTGeZlT2fYhWMRxx2oHA4UZMU36YRk_Nxs0812DvUxN4xw1zT_6zCY3uFtcxlVxS4leqhyphenhyphenzR9_5oUd5-XD174-YZXCqWMy8e47ZJvsIRUqAJHCRkVtfk9qgAKc-GXLHvePDQdTLSYUSIDXQuKC-t9PDEHeOML6u/s320/Linked_In-removebg-preview.png" alt="LinkedIn" height="50" style="width: auto;"/></a>
