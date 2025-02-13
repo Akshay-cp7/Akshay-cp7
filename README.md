@@ -21,7 +21,7 @@
       <img 
         src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvS6SMc1pjghoEsmI4oCnNoM-vC67lTw2AAOsAUVreO6X_DPI3ZIVEeXuTdCS2V6Ocbdn4RObV6u_OUWB1hsqByt0u6qpSz6XD0ZC8HCqwLGEbWl2dsgfRPtNllLEIJiwGx8J-0rmobQPtheHRqSRYlaVstWCWYHqiz58-k_Jeq3ywLZU3JwCHsyP8_ExH/s320/employee.png" 
         alt="Akshay C P" 
-        style="height: 100px; width: auto; border-radius: 50%;" 
+        style="height: 150px; width: auto; border-radius: 50%;" 
       />
     </div>
   </div>
