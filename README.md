@@ -10,12 +10,14 @@
 
   <img align="right" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvS6SMc1pjghoEsmI4oCnNoM-vC67lTw2AAOsAUVreO6X_DPI3ZIVEeXuTdCS2V6Ocbdn4RObV6u_OUWB1hsqByt0u6qpSz6XD0ZC8HCqwLGEbWl2dsgfRPtNllLEIJiwGx8J-0rmobQPtheHRqSRYlaVstWCWYHqiz58-k_Jeq3ywLZU3JwCHsyP8_ExH/s320/employee.png" alt="Akshay C P" style="height: 150px; width: auto; border-radius: 50%; margin-left: 20px;">
 
-  <p style="margin-top: 20px;">Developing a cross-platform mobile application for Android and iOS, currently working for Farook College. The app integrates with REST APIs to enable faculty members to efficiently mark attendance and perform various administrative functions.
+ <h5> Developing a cross-platform mobile application for Android and iOS, currently working for Farook College. The app integrates with REST APIs to enable faculty members to efficiently mark attendance and perform various administrative functions.
+ </h6>
+ <hr>
+ 
   <div style="margin-top: 30px;">
     <h3 style="text-align: left;">Socials:</h3>
     <p style="text-align: left;">
-      <a href="https://www.linkedin.com/in/akshay-cp7"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP93kcigD44SybE4leObgPB36SKblvfcTGeZlT2fYhWMRxx2oHA4UZMU36YRk_Nxs0812DvUxN4xw1zT_6zCY3uFtcxlVxS4leqhyphenhyphenzR9_5oUd5-XD174-YZXCqWMy8e47ZJvsIRUqAJHCRkVtfk9qgAKc-GXLHvePDQdTLSYUSIDXQuKC-t9PDEHeOML6u/s320/Linked_In-removebg-preview.png" alt="LinkedIn" height="50" style="width: auto;"/></a>
-      <a href="https://play.google.com/store/apps/dev?id=7948075848513102467"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisNwpVyWWztiE2p1ginZnYRSGCrEg2sOmXhuoLYKgenNj_LTpF8NEIhc9oxtURm4p0u4n1t-R4oQ09vEcKc7gODyNKeQC_l40eheAbyL7Fg97Rzp3hz7QL2Y3N2ajsZJVGibWdhEkahcyCdvfI4ujifXErFfIjFa3xBZAugU4hsZS11WOML4H6GCNu2aeq/s320/Linked_In__1_-removebg-preview.png" alt="Gplay" height="50" style="width: auto;"/></a>
+      <a href="https://www.linkedin.com/in/akshay-cp7"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxZm2xIZU6jmcTWCbAlrZ3Mrb45cuNC2MFli1ugJWOK810htpoqzT1qZwARlwt4Ha0V-JIITpuzMSNBaBy6jKJAqfUqe2lFWR02iwO7fWTEqqD8DRgpjOjruRNSDedrVQ8EicSjCm0jR-VzMiOtExefslhao26KrHUP1J3dnLVw2Mip2xtUvHjs0xcQppb/s320/Untitled%20design%20(6).png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisNwpVyWWztiE2p1ginZnYRSGCrEg2sOmXhuoLYKgenNj_LTpF8NEIhc9oxtURm4p0u4n1t-R4oQ09vEcKc7gODyNKeQC_l40eheAbyL7Fg97Rzp3hz7QL2Y3N2ajsZJVGibWdhEkahcyCdvfI4ujifXErFfIjFa3xBZAugU4hsZS11WOML4H6GCNu2aeq/s320/Linked_In__1_-removebg-preview.png" alt="Gplay" height="50" style="width: auto;"/></a>
       <a href="https://www.instagram.com/archmeideas/"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdf4nX_3fnUo8XTV0pg3c_-d32yg9mHTE_9yY5pb0IbBwN2vxcT95nuWHoyvH1rZFJ40YgKs6IJPqJ92HKSXZbpeKQxwV2LQvppO3z5Z3hHwfKjLQ250lSr4QQUj84Eq8C6eZDURYuqhWR2A7p5da5VEPBRA-vnEog34NVtx7WT2KOfH4XnbdhCNQLF2QR/s320/Linked_In__2_-removebg-preview.png" alt="Insta" height="50" style="width: auto;"/></a>
     </p>
     <h3 style="text-align: left;">Languages & Tools:</h3>
