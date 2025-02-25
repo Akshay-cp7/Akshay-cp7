@@ -8,7 +8,7 @@
   <h1 style="margin: 0;">Hi 👋, I'm Akshay C P</h1>
   <h3 style="margin: 0;">Flutter Developer @ Farook College</h3>
 
-  <img align="right" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdeUZd_vEken5JEFTcOM2H_z8c7nIT-X927LrLzxwDVd5dG0sc2Xw8ufVQs1OQgjrB0DCjQNzM1hFoxJe80eue5FCHncEOIOz2wG7b3YpXFt6zodsd1adLRqzXRQhdxmMHzFWO2NoQYcvoEtQ21fFH6uV6IBGoqQSrtRHeYj2uxEJ0o-TUNVtYuqxwtFEX/s320/Capture71-removebg-preview.png" alt="Akshay C P" style="height: 190px; width: auto; border-radius: 50%; margin-left: 80px;">
+  <img align="right" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTL8KcavNcwLDQdHCFpyWthilhhH86Pzcrsz6gQ-ftuOp1hJlKzQWkej4kbpMfdlsmfDqrbPZ9zcQNY2460XCAFx_gcfh3ngGJ3ha13tKS2IK6o6qMM-zFZZcfn5vmTxtSDACoBWgDhkmEp8dyiLg20y8ns0uf_Ecb0WtH7xmO1IFU8cDc3zgPG37XYEDB/s320/gifmaker_me%20(1).gif" alt="Akshay C P" style="height: 190px; width: auto; border-radius: 50%; margin-left: 80px;">
 
  <h5> Developing a cross-platform mobile application for Android and iOS, currently working for Farook College. The app integrates with REST APIs to enable faculty members to efficiently mark attendance and perform various administrative functions.
  </h6>
