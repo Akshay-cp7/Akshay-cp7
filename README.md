@@ -19,7 +19,7 @@
         <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXJebyScG-oPkvr4Yuob6opBKkdA3xqRCW43oqd0Mt6aRc9mtQ6oICv5sSWUM-Yce_e8ymeaJsy8yrqHoMphtKipBAeRzqYfl5XGV-jUPWE85RmkzTyB1MZj0WMCFTZPcvZmM1PN0GmPhFQZfiAk0nRpv1EZnULXtkpfvw9Ux0_SIjDWo7Ni8HWgcEnQd9/s320/gifmaker_me%20(4).gif" alt="Gplay" height="50" style="width: auto;"/></a>
       <a href="https://www.instagram.com/archmeideas/"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiPaVuIZGY3Y0U0mFjqWdewm3q6sgXehS5a9iWY5au6qfGkcQuOSghsaFFCti1ayju22zloRM4ZdADSTDI6GgspGh-ShU4xHHQ5-ZmWtJO3z0HdwOS9Qjrk1nTc4wfeLENTRE1BqZf2S8sAjlDucAAcxFH0ogBDhH9rQkyZdybc3zqcL5qcE6dFOXvJK8_/s320/gifmaker_me%20(5).gif" alt="Insta" height="50" style="width: auto;"/></a>
       <a href="https://www.linkedin.com/in/akshay-cp7">
-        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisNwpVyWWztiE2p1ginZnYRSGCrEg2sOmXhuoLYKgenNj_LTpF8NEIhc9oxtURm4p0u4n1t-R4oQ09vEcKc7gODyNKeQC_l40eheAbyL7Fg97Rzp3hz7QL2Y3N2ajsZJVGibWdhEkahcyCdvfI4ujifXErFfIjFa3xBZAugU4hsZS11WOML4H6GCNu2aeq/s320/Linked_In__1_-removebg-preview.png" alt="Gplay" height="50" style="width: auto;"/></a>
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlhBgLtlr7cB_dlsFoL6D0SZ1igKrCwVSMoXRrLlb79459Hak-FlfX59eFfBm95txPd6C4PJAfNmYGGkJTJ7xrkzTXyeMwLx1ur3zhuxa_qs0dtQwF1hL_Wk1Pw_FhC4kAzYID3N4pWSbuYFPzrsXN_Jrn2EU3ZgFaw1DD5Lki3wx2en-rHHLMMDub-b4Z/s320/gifmaker_me%20(6).gif" alt="Gplay" height="50" style="width: auto;"/></a>
     </p>
     <h3 style="text-align: left;">Languages & Tools:</h3>
     <p style="text-align: left; display: flex; flex-wrap: wrap;">
