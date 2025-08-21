@@ -8,28 +8,25 @@
   <h1 style="margin: 0;">Hi 👋, I'm Akshay C P</h1>
   <h3 style="margin: 0;">Flutter Developer @ Farook College</h3>
 
-  <img align="right" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieoqPClx1klhbpo4aRT2FhkQiFFLuPNo5aDcHKL-yoDQ1mj9NRCK3o0MA132hQ0-f5YNA8tLVXYtXh8Z2GkxncDpdCaRBuGG0ex3BRSZ7gZ_p8lE6Eqyv3N5hdPmQHIpjOBOdjOEAfnBMujKSsYrMrH7xISlm7UlsqS6RCaZ4F-wKCg46d-QgapUEI-QYd/s320/4.png" alt="Akshay C P" style="height: 190px; width: auto; border-radius: 50%; margin-left: 80px;">
+  <h5> Developing a cross-platform mobile application for Android and iOS, currently working for Farook College. The app integrates with REST APIs to enable faculty members to efficiently mark attendance and perform various administrative functions.
+  </h5>
 
- <h5> Developing a cross-platform mobile application for Android and iOS, currently working for Farook College. The app integrates with REST APIs to enable faculty members to efficiently mark attendance and perform various administrative functions.
- </h6>
   <div style="margin-top: 30px;">
     <h3 style="text-align: left;">Socials:</h3>
- <div style="text-align: left; display: flex; gap: 20px; align-items: center;">
-  <a href="https://www.linkedin.com/in/akshay-cp7">
-    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXJebyScG-oPkvr4Yuob6opBKkdA3xqRCW43oqd0Mt6aRc9mtQ6oICv5sSWUM-Yce_e8ymeaJsy8yrqHoMphtKipBAeRzqYfl5XGV-jUPWE85RmkzTyB1MZj0WMCFTZPcvZmM1PN0GmPhFQZfiAk0nRpv1EZnULXtkpfvw9Ux0_SIjDWo7Ni8HWgcEnQd9/s320/gifmaker_me%20(4).gif" 
-         alt="Gplay" height="60" style="width: auto;"/>
-  </a>
-  
-  <a href="https://www.instagram.com/archmeideas/">
-    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiPaVuIZGY3Y0U0mFjqWdewm3q6sgXehS5a9iWY5au6qfGkcQuOSghsaFFCti1ayju22zloRM4ZdADSTDI6GgspGh-ShU4xHHQ5-ZmWtJO3z0HdwOS9Qjrk1nTc4wfeLENTRE1BqZf2S8sAjlDucAAcxFH0ogBDhH9rQkyZdybc3zqcL5qcE6dFOXvJK8_/s320/gifmaker_me%20(5).gif" 
-         alt="Insta" height="60" style="width: auto;"/>
-  </a>
+    <div style="text-align: left; display: flex; gap: 20px; align-items: center;">
+      <a href="https://www.linkedin.com/in/akshay-cp7" style="text-decoration: none; color: #0077b5; font-weight: bold;">
+        📱 LinkedIn
+      </a>
+      
+      <a href="https://www.instagram.com/archmeideas/" style="text-decoration: none; color: #e4405f; font-weight: bold;">
+        📸 Instagram
+      </a>
 
-  <a href="https://www.linkedin.com/in/akshay-cp7">
-    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlhBgLtlr7cB_dlsFoL6D0SZ1igKrCwVSMoXRrLlb79459Hak-FlfX59eFfBm95txPd6C4PJAfNmYGGkJTJ7xrkzTXyeMwLx1ur3zhuxa_qs0dtQwF1hL_Wk1Pw_FhC4kAzYID3N4pWSbuYFPzrsXN_Jrn2EU3ZgFaw1DD5Lki3wx2en-rHHLMMDub-b4Z/s320/gifmaker_me%20(6).gif" 
-         alt="Gplay" height="60" style="width: auto;"/>
-  </a>
-</div>
+      <a href="https://play.google.com/store/apps/dev?id=7948075848513102467&hl=en_IN" style="text-decoration: none; color: #01875f; font-weight: bold;">
+        🎮 Google Play Store
+      </a>
+    </div>
+
     <h3 style="text-align: left;">Languages & Tools:</h3>
     <p style="text-align: left; display: flex; flex-wrap: wrap;">
       <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" style="margin: 5px;"/></a>
@@ -46,4 +43,3 @@
   </div>
 </body>
 </html>
-
