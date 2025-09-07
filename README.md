@@ -1,6 +1,6 @@
 # Hi 👋, I'm Akshay C P
 
-### Flutter Developer @ Farook College
+### Flutter Developer Goole Play 
 
 Developing a cross-platform mobile application for Android and iOS, currently working for Farook College. The app integrates with REST APIs to enable faculty members to efficiently mark attendance and perform various administrative functions.
 
