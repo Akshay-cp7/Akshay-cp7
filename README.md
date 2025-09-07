@@ -1,5 +1,6 @@
 # Hi 👋, I'm Akshay C P
-### Flutter Developer Google Play [![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=7948075848513102467&hl=en_IN)
+### Flutter Developer Google Play  
+[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=7948075848513102467&hl=en_IN)
 
 Developing a cross-platform mobile application for Android and iOS, currently working for Farook College. The app integrates with REST APIs to enable faculty members to efficiently mark attendance and perform various administrative functions.
 
