@@ -1,17 +1,13 @@
 # Hi 👋, I'm Akshay C P
-
-### Flutter Developer Goole Play 
+### Flutter Developer Google Play [![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=7948075848513102467&hl=en_IN)
 
 Developing a cross-platform mobile application for Android and iOS, currently working for Farook College. The app integrates with REST APIs to enable faculty members to efficiently mark attendance and perform various administrative functions.
 
 ### Socials:
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-cp7)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/archmeideas/)
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=7948075848513102467&hl=en_IN)
 
 ### Languages & Tools:
-
 <p align="left">
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
